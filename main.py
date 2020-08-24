@@ -37,7 +37,7 @@ def start_download():
 
 main = Tk()
 main.title("YouTube Downloader")
-main.iconbitmap('icon.ico')
+main.iconbitmap('venv//Images//icon.ico')
 main.geometry("750x300+400+150")
 main.resizable(width=True, height=True)
 
